@@ -62,7 +62,7 @@ const addAccount = () => {
   display: flex;
   align-items: center;
   gap: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   padding: 20px;
   border-radius: 15px;
   background-color: rgb(224, 224, 224);
